@@ -1,0 +1,5 @@
+Compile with:
+gcc driver.c lexical.c hw3tc.c pm0vm.c
+
+Run with:
+./a.out <input.txt> <Optional -a, -l, -v>
